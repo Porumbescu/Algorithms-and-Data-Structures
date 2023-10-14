@@ -3,7 +3,7 @@ package AlgoExpert.Arrays;
 import java.util.*;
 
 // Validate Subsequence
-// Difficulty: easy     Category: Arrays
+// Difficulty: Easy     Category: Arrays
 
 // Given two non-empty arrays of integers, write a function that determines
 // whether the second array is a subsequence of the first one.

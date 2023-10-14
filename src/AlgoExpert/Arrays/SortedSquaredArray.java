@@ -3,7 +3,7 @@ package AlgoExpert.Arrays;
 import java.util.*;
 
 // Sorted Squared Array
-// Difficulty: easy     Category: Arrays
+// Difficulty: Easy     Category: Arrays
 
 // Write a function that takes in a non-empty array of integers that are sorted
 // in ascending order and returns a new array of the same length with the squares

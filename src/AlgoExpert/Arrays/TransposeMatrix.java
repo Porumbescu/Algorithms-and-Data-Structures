@@ -3,7 +3,7 @@ package AlgoExpert.Arrays;
 import java.util.*;
 
 // Transpose Matrix
-// Difficulty: easy     Category: Arrays
+// Difficulty: Easy     Category: Arrays
 
 // You're given a 2D array of integers matrix. Write a function
 // that returns the transpose of the matrix. The transpose of a

@@ -3,7 +3,7 @@ package AlgoExpert.Arrays;
 import java.util.*;
 
 // Two Number Sum
-// Difficulty: easy     Category: Arrays
+// Difficulty: Easy     Category: Arrays
 
 // Write a function that takes in a non-empty array of distinct integers and an
 // integer representing a target sum. If any two numbers in the input array sum

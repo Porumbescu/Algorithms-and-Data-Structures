@@ -1,7 +1,7 @@
 package AlgoExpert.LinkedLists;
 
 // Middle Node
-// Difficulty: easy     Category: Linked Lists
+// Difficulty: Easy     Category: Linked Lists
 
 // You're given a Linked List with at least one node. Write a function
 // that returns the middle node of the Linked List. If there are two middle

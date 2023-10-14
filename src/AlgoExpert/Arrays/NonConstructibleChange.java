@@ -3,7 +3,7 @@ package AlgoExpert.Arrays;
 import java.util.*;
 
 // Non-Constructible Change
-// Difficulty: easy     Category: Arrays
+// Difficulty: Easy     Category: Arrays
 
 // Given an array of positive integers representing the values of coins in your
 // possession, write a function that returns the minimum amount of change (the

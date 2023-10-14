@@ -1,7 +1,7 @@
 package AlgoExpert.LinkedLists;
 
 // Remove Duplicates
-// Difficulty: easy     Category: Linked Lists
+// Difficulty: Easy     Category: Linked Lists
 
 // You're given the head of a Singly Linked List whose nodes are in sorted order
 // with respect to their values. Write a function that returns a modified version
