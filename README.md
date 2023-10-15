@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-Welcome to the "Algorithms and Data Structures" repository! Here, I'm documenting my daily journey through a series of challenging algorithmic problems sourced mainly from AlgoExpert.
+Welcome to the "Algorithms and Data Structures" repository! Here, I'm documenting my daily journey through a series of challenging algorithmic problems sourced mainly from AlgoExpert. All solutions are crafted in Java.
 
 ## 🚀 About the Project
 
