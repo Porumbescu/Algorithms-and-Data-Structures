@@ -1,5 +1,7 @@
 # Algorithms and Data Structures
 
+![GitHub](https://img.shields.io/github/license/Porumbescu/Algorithms-and-Data-Structures) ![GitHub repo size](https://img.shields.io/github/repo-size/Porumbescu/Algorithms-and-Data-Structures) ![GitHub last commit](https://img.shields.io/github/last-commit/Porumbescu/Algorithms-and-Data-Structures) ![GitHub top language](https://img.shields.io/github/languages/top/Porumbescu/Algorithms-and-Data-Structures)
+
 Welcome to the "Algorithms and Data Structures" repository! Here, I'm documenting my daily journey through a series of challenging algorithmic problems sourced mainly from AlgoExpert. All solutions are crafted in Java.
 
 ## 🚀 About the Project
