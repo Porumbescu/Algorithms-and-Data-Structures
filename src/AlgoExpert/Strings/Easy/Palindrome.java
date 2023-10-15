@@ -1,4 +1,4 @@
-package AlgoExpert.Strings;
+package AlgoExpert.Strings.Easy;
 
 // Palindrome
 // Difficulty: Easy     Category: Strings

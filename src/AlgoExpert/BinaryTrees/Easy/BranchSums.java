@@ -1,4 +1,4 @@
-package AlgoExpert.BinaryTrees;
+package AlgoExpert.BinaryTrees.Easy;
 
 import java.util.*;
 

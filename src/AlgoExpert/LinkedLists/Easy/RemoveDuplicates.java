@@ -1,4 +1,4 @@
-package AlgoExpert.LinkedLists;
+package AlgoExpert.LinkedLists.Easy;
 
 // Remove Duplicates
 // Difficulty: Easy     Category: Linked Lists

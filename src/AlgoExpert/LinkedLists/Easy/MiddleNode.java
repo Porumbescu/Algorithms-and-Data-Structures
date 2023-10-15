@@ -1,4 +1,4 @@
-package AlgoExpert.LinkedLists;
+package AlgoExpert.LinkedLists.Easy;
 
 // Middle Node
 // Difficulty: Easy     Category: Linked Lists

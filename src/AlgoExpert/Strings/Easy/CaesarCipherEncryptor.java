@@ -1,4 +1,4 @@
-package AlgoExpert.Strings;
+package AlgoExpert.Strings.Easy;
 
 // Caesar Cipher Encryptor
 // Difficulty: Easy     Category: Strings
