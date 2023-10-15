@@ -1,4 +1,4 @@
-package AlgoExpert.Arrays;
+package AlgoExpert.Arrays.Medium;
 
 import java.util.*;
 
