@@ -1,6 +1,13 @@
-# Algorithms and Data Structures
+<h1 align="center">Algorithms and Data Structures</h1>
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/Porumbescu/Algorithms-and-Data-Structures" alt="Repo Size Badge">
+    <img src="https://img.shields.io/github/last-commit/Porumbescu/Algorithms-and-Data-Structures" alt="Last Commit Badge">
+    <img src="https://img.shields.io/github/languages/top/Porumbescu/Algorithms-and-Data-Structures" alt="Top Language Badge">
+    <img src="https://img.shields.io/github/commit-activity/y/Porumbescu/Algorithms-and-Data-Structures" alt="Yearly Commit Badge">
+    <img src="https://img.shields.io/github/commit-activity/m/Porumbescu/Algorithms-and-Data-Structures" alt="Monthly Commit Badge">
+    <img src="https://img.shields.io/github/commit-activity/w/Porumbescu/Algorithms-and-Data-Structures" alt="Weekly Commit Badge">
+</p>
 
-![GitHub](https://img.shields.io/github/license/Porumbescu/Algorithms-and-Data-Structures) ![GitHub repo size](https://img.shields.io/github/repo-size/Porumbescu/Algorithms-and-Data-Structures) ![GitHub last commit](https://img.shields.io/github/last-commit/Porumbescu/Algorithms-and-Data-Structures) ![GitHub top language](https://img.shields.io/github/languages/top/Porumbescu/Algorithms-and-Data-Structures)
 
 Welcome to the "Algorithms and Data Structures" repository! Here, I'm documenting my daily journey through a series of challenging algorithmic problems sourced mainly from AlgoExpert. All solutions are crafted in Java.
 
