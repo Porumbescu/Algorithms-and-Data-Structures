@@ -3,7 +3,6 @@
     <img src="https://img.shields.io/github/repo-size/Porumbescu/Algorithms-and-Data-Structures" alt="Repo Size Badge">
     <img src="https://img.shields.io/github/last-commit/Porumbescu/Algorithms-and-Data-Structures" alt="Last Commit Badge">
     <img src="https://img.shields.io/github/languages/top/Porumbescu/Algorithms-and-Data-Structures" alt="Top Language Badge">
-    <img src="https://img.shields.io/github/commit-activity/y/Porumbescu/Algorithms-and-Data-Structures" alt="Yearly Commit Badge">
     <img src="https://img.shields.io/github/commit-activity/m/Porumbescu/Algorithms-and-Data-Structures" alt="Monthly Commit Badge">
     <img src="https://img.shields.io/github/commit-activity/w/Porumbescu/Algorithms-and-Data-Structures" alt="Weekly Commit Badge">
 </p>
