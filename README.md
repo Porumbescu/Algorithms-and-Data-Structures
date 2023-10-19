@@ -23,7 +23,7 @@ Once I've tackled the challenges from AlgoExpert, I plan to transition to solvin
 | Difficulty | Progress     |
 |------------|--------------|
 | Easy       | 28/31        |
-| Medium     | 4/73         |
+| Medium     | 6/73         |
 | Hard       | 0/54         |
 | Very Hard  | 0/37         |
 
